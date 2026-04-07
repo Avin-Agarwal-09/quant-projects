@@ -1,1 +1,29 @@
-# quant-projects
+# Quant Projects
+
+Python projects exploring quantitative finance, algorithmic 
+trading, and financial data analysis.
+
+Built during IB Year 12 in Singapore as part of my preparation 
+for a degree in Econometrics or Quantitative Finance.
+
+---
+
+## Projects
+
+| # | Project | Description | Status |
+|---|---------|-------------|--------|
+| 01 | [Moving Average Crossover](./01-moving-average) | SPY 50-day vs 200-day MA visualisation | ✅ Done |
+| 02 | Multi-Stock Return Comparison | Cumulative returns across asset classes | 🔄 May 2026 |
+| 03 | Strategy Backtester | Momentum strategy with Sharpe + drawdown | 🔄 Jun 2026 |
+| 04 | News-Driven Backtesting Tool | Economic events mapped to price moves | 🔄 Jun–Aug 2026 |
+| 05 | Economic Indicator Dashboard | Singapore + US macro data visualised | 🔄 Aug 2026 |
+| 06 | Options Pricing — Black Scholes | Implemented from scratch in Python | 🔄 Oct 2026 |
+
+---
+
+## Skills
+Python · pandas · yfinance · matplotlib · numpy
+
+## Background
+IB student in Singapore. HL: Mathematics, Computer Science, Physics.  
+Interested in quantitative trading, financial data science, and econometrics.
