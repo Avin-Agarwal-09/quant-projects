@@ -13,7 +13,7 @@ for a degree in Econometrics or Quantitative Finance.
 | # | Project | Description | Status |
 |---|---------|-------------|--------|
 | 01 | [Moving Average Crossover](./01-moving-average) | SPY 50-day vs 200-day MA visualisation | ✅ Done |
-| 02 | Multi-Stock Return Comparison | Cumulative returns across asset classes | 🔄 May 2026 |
+| 02 | [Multiple Stock Returns](./02-multi-stock) | Cumulative returns across asset classes | ✅ Done |
 | 03 | Strategy Backtester | Momentum strategy with Sharpe + drawdown | 🔄 Jun 2026 |
 | 04 | News-Driven Backtesting Tool | Economic events mapped to price moves | 🔄 Jun–Aug 2026 |
 | 05 | Economic Indicator Dashboard | Singapore + US macro data visualised | 🔄 Aug 2026 |
